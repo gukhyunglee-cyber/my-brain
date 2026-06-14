@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "n1718379447000",
+    "text": "# Connect AI 지식 공간\n\n이곳은 Connect AI 에이전트의 지식이 보관되는 폴더입니다.",
+    "tags": [
+      "지식",
+      "공간",
+      "에이전트"
+    ],
+    "ts": 1718379447000,
+    "emb": null,
+    "category": "general",
+    "source": "me",
+    "verified": true
+  }
+]
